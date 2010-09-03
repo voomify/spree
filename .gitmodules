@@ -1,3 +1,0 @@
-[submodule "vendor/plugins/schneider"]
-	path = vendor/plugins/schneider
-	url = git://github.com/voomify/schneider.git
