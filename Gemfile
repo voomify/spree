@@ -20,11 +20,6 @@ gem 'paperclip',  '2.3.1.1'
 gem 'ruby-openid',  '>=2.0.4',:require => "openid"
 gem 'i18n'
 
-# voomify specific
-gem "utility_drawer"
-gem "httparty"
-
-
 # bundler requires these gems in all environments
 # gem "nokogiri", "1.4.2"
 # gem "geokit"
