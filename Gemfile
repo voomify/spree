@@ -24,6 +24,10 @@ gem 'i18n'
 # gem "nokogiri", "1.4.2"
 # gem "geokit"
 
+# These are for voomify. We use them to debug locally.
+gem "httparty"
+gem "utility_drawer"
+
 group :development do
   # bundler requires these gems in development
   # gem "rails-footnotes"
